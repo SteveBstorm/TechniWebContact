@@ -31,6 +31,28 @@ namespace ContactWebsite.Tools
             };
         }
 
-        
+        public static WEB.User ToWEB(this DA.User u)
+        {
+            return new WEB.User
+            {
+                Id = u.Id,
+                Email = u.Email,
+                IsAdmin = u.IsAdmin,
+                Token = u.Token
+            };
+        }
+
+        public static DA.User ToDAL(this WEB.User u)
+        {
+            return new DA.User
+            {
+                Id = u.Id,
+                Email = u.Email,
+                IsAdmin = u.IsAdmin,
+                Token = u.Token
+            };
+        }
+
+
     }
 }

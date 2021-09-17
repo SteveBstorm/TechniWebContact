@@ -1,0 +1,11 @@
+﻿@using ContactWebsite.Tools
+
+@if (SessionManager.user != null)
+{
+    <p>Bonjour, @SessionManager.user.Email</p>
+}
+else
+{
+    <p>Salut l'inconnu</p>
+}
+

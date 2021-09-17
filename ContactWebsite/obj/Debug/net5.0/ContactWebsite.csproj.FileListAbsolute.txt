@@ -120,3 +120,6 @@ C:\Users\Steve\source\Demo\TechniNet\ContactWebsite\ContactWebsite\obj\Debug\net
 C:\Users\Steve\source\Demo\TechniNet\ContactWebsite\ContactWebsite\obj\Debug\net5.0\Razor\Views\Contact\Detail.cshtml.g.cs
 C:\Users\Steve\source\Demo\TechniNet\ContactWebsite\ContactWebsite\obj\Debug\net5.0\Razor\Views\Contact\Create.cshtml.g.cs
 C:\Users\Steve\source\Demo\TechniNet\ContactWebsite\ContactWebsite\obj\Debug\net5.0\Razor\Views\Contact\Edit.cshtml.g.cs
+C:\Users\Steve\source\Demo\TechniNet\ContactWebsite\ContactWebsite\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Steve\source\Demo\TechniNet\ContactWebsite\ContactWebsite\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Steve\source\Demo\TechniNet\ContactWebsite\ContactWebsite\obj\Debug\net5.0\Razor\Views\User\ListUser.cshtml.g.cs
